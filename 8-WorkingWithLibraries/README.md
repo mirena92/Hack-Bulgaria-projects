@@ -28,5 +28,6 @@ The program inspects a java file. It receives a file path
   
 ### How to run?  
 To run just type `java -jar QuickCodeInspector.jar D:\Programs\Main.java `  
-in the terminal.
+in the terminal. `D:\Programs\Main.java` is only for example, you must write  
+your file path.
   
