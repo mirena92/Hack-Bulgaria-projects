@@ -17,7 +17,7 @@ The program receives eight arguments:
   
 **To run**, just type `java -jar SendEmail.jar` followed by the eight arguments in the terminal.  
   
-For example `"reni@gmail.com" "Hello" "This is test email" "anny@gmail.com"  
+For example `java -jar SendEmail.jar "reni@gmail.com" "Hello" "This is test email" "anny@gmail.com"  
 "Ani" "anny@gmail." "121212" "http://d3dsacqprgcsqh.cloudfront.net/photo/azbW3zq_460sa_v1.gif"`
   
  
