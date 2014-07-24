@@ -5,7 +5,7 @@ import java.net.URL;
 
 import org.apache.commons.mail.*;
 
-public class SendEmail {
+public class SendAnEmail {
 
     public static final int PORT = 465;
 
