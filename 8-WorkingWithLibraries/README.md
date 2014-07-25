@@ -1,25 +1,3 @@
-Send Email  
-==  
-  
-This program sends an email to someone. It uses the apache  
-commons-email library.
-  
-### How to run?  
-To run, just type `java -jar SendEmail.jar` in the terminal.
-  
-  
-  
-Toaster
-===  
-  
-This program waits 10 seconds and then shows a notification  
-and a picture. The program use the incredibly-complex JToaster library.  
-  
-### How to run?  
-To run, just type `java -jar Toaster.jar` in the terminal.
-  
-  
-  
 Quick Code Inspector
 ===  
   
