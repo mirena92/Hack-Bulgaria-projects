@@ -9,7 +9,7 @@ public class SendAnEmail {
 
     public static final int PORT = 465;
 
-    public static void main(String args[]) throws MalformedURLException, EmailException {
+    public static void main(String[] args) throws MalformedURLException, EmailException {
 
         MultiPartEmail email = new MultiPartEmail();
 
