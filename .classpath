@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="8-WorkingWithLibraries/src"/>
+	<classpathentry kind="src" path="Exam1/src"/>
+	<classpathentry kind="src" path="Exam1/test"/>
+	<classpathentry kind="src" path="SendEmail/src"/>
+	<classpathentry kind="src" path="Toaster/src"/>
+	<classpathentry kind="lib" path="8-WorkingWithLibraries/build/QuickCodeInspector.jar"/>
+	<classpathentry kind="lib" path="8-WorkingWithLibraries/build/SendEmail.jar"/>
+	<classpathentry kind="lib" path="8-WorkingWithLibraries/build/Toaster.jar"/>
+	<classpathentry kind="lib" path="SendEmail/build/SendEmail.jar"/>
+	<classpathentry kind="lib" path="Toaster/build/Toaster.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="Toaster/bin"/>
+</classpath>
