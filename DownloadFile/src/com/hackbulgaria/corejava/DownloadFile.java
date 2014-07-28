@@ -23,16 +23,4 @@ public class DownloadFile {
         input.close();
         output.close();
     }
-
-    public static void main(String[] args) {
-        try {
-            URL url = new URL(args[0]);
-            DownloadFile.download(url);
-        } catch (MalformedURLException e) {
-            e.printStackTrace();
-        } catch (URISyntaxException | IOException e) {
-            // TODO Auto-generated catch block
-            e.printStackTrace();
-        }
-    }
 }
