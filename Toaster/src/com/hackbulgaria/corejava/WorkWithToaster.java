@@ -21,5 +21,4 @@ public class WorkWithToaster {
         toaster.showToaster("Get a little rest, will you?");
         Thread.sleep(20 * 1000);
     }
-
 }
